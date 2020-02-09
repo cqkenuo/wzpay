@@ -32,7 +32,7 @@
 
 `第二步：wzpay_server 返回你的二维码 -> 用户扫码支付 -> 钱到你的微信/支付宝 -> wzpay_app 监听到钱支付成功 ->`
 
-`第三步：wzpay_app 告诉wzpay_server 这个支付成功的消息 -> wzpay_server 把这个消息回调给你的网站(notify_url)`
+`第三步：wzpay_app 告诉wzpay_server 这个支付成功的消息 -> wzpay_server 把这个消息回调给你的网站(notify_url)` 
 ### 三、搭建流程
 
 #### 2.1 获取源码 ----> [wzpay](https://wzpay.jmkeji.net/)
